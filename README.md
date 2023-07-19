@@ -1,5 +1,7 @@
 Hack2skill Assignment:-
 
+Assignment Link:- https://drive.google.com/file/d/1DLpTEqqX0_e5LIcQAszJdXuPF5xCxgaQ/view?usp=sharing
+
 GitHub Link:- https://github.com/manishawadhe/Hack2Skill
 
 Bug Report Link:- 
