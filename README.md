@@ -1,4 +1,4 @@
-<h4>Project Title</h4>
+<h3 style="color: green">Project Title</h3>
 Hack2skill Assignment:-
 
 Assignment Link:- https://drive.google.com/file/d/1DLpTEqqX0_e5LIcQAszJdXuPF5xCxgaQ/view?usp=sharing
