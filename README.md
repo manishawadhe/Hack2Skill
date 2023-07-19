@@ -2,8 +2,6 @@ Hack2skill Assignment:-
 
 GitHub Link:- https://github.com/manishawadhe/Hack2Skill
 
-HTML Test Report:-
-
 Bug Report Link:- 
        1. https://docs.google.com/document/d/1ZOj3CHMLgwAl43ctnH6RJnMsqNY-apVTQBrks9D8UDM/edit?usp=sharing
        
