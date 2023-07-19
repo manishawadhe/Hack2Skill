@@ -1,9 +1,21 @@
-<h3 style="color: green">Project Title</h3>
-Hack2skill Assignment:-
+<h4 style="color: white">Project Title :- Hack2skill</h4>
+<h4>Project Description</h4>
+<br/>
+<p>Hack2skill is the largest and fastest-growing community of technology innovators, including startups, working professionals, freelancers, and student innovators.</p>
+<p> In this Project I have to do manual testing as well as automation testing and generate the report for the same.</p>
+<br/>
+<P>Tech Stack</P>
+    1. Selenium
+    2. TestNg
+    3. Excel
+    4. Google Doc
+<br/>
+<h4>Assignment Link</h4>
+ https://drive.google.com/file/d/1DLpTEqqX0_e5LIcQAszJdXuPF5xCxgaQ/view?usp=sharing
+<br/>
 
-Assignment Link:- https://drive.google.com/file/d/1DLpTEqqX0_e5LIcQAszJdXuPF5xCxgaQ/view?usp=sharing
-
-GitHub Link:- https://github.com/manishawadhe/Hack2Skill
+<h4>GitHub Link</h4>
+https://github.com/manishawadhe/Hack2Skill
 
 Bug Report Link:- 
        1. https://docs.google.com/document/d/1ZOj3CHMLgwAl43ctnH6RJnMsqNY-apVTQBrks9D8UDM/edit?usp=sharing
